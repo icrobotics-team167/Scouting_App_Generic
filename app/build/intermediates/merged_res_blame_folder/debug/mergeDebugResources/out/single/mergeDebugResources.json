@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.cotcscouting.app-debug-57:/layout_fragment_data.xml.flat",
+        "source": "com.example.cotcscouting.app-main-59:/layout/fragment_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\drawable_gear.png.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\drawable\\gear.png"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\layout_fragment_alliance_scouting.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\layout\\fragment_alliance_scouting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\layout_fragment_blue_alliance.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\layout\\fragment_blue_alliance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\layout-land_fragment_pit_scouting.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\layout-land\\fragment_pit_scouting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\drawable-mdpi_background.png.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\layout_fragment_blank.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\layout_fragment_pit_scouting.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\layout\\fragment_pit_scouting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\layout-land_fragment_match_scouting.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\layout-land\\fragment_match_scouting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\layout_fragment_match_scouting.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\layout\\fragment_match_scouting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\drawable_field_diagram.png.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\drawable\\field_diagram.png"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\layout_fragment_data.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\layout\\fragment_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\layout-land_fragment_blue_alliance.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\layout-land\\fragment_blue_alliance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-debug-57:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\Syatr\\.gradle\\daemon\\8.4\\com.example.cotcscouting.app-main-59:\\layout\\fragment_login.xml"
+    }
+]

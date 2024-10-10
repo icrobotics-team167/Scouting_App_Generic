@@ -120,4 +120,5 @@
     <string name="melody_desc">18 (15 Co-Op) Notes scored</string>
     <string name="co_op_desc">Pressed yellow button</string>
     <string name="tablet_number">Tablet Number</string>
+    <string name="data_analysis">Data Analysis</string>
 </resources>
