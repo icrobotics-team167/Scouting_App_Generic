@@ -1,4 +1,4 @@
-#Thu Oct 10 18:28:06 CDT 2024
+#Thu Oct 24 20:04:07 CDT 2024
 base.0=C\:\\Users\\Syatr\\OneDrive\\Documents\\GitHub\\Scouting_App_Generic\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\Syatr\\OneDrive\\Documents\\GitHub\\Scouting_App_Generic\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\Syatr\\OneDrive\\Documents\\GitHub\\Scouting_App_Generic\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex

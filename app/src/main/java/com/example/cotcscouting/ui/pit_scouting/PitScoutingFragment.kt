@@ -94,8 +94,6 @@ class PitScoutingFragment : Fragment() {
             clearFields()
         }
 
-        println(Integer.decode("0"))
-
         return root
     }
     override fun onDestroyView() {
