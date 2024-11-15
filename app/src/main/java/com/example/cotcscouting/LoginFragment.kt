@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.DialogFragment
 import com.example.cotcscouting.databinding.FragmentLoginBinding
 
+//test for Full java
 
 class LoginFragment : DialogFragment() {
     private var _binding: FragmentLoginBinding? = null
