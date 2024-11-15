@@ -108,6 +108,7 @@ class PitScoutingFragment : Fragment() {
      * Set an on click listen for the all box and all the other options.
      * @param all The checkbox which means all
      * @param otherOptionCheckBoxes all other options
+     * test
      * */
     private fun setOnClickCheckBoxes(all : CheckBox?, otherOptionCheckBoxes: List<CheckBox?>) {
         all?.setOnClickListener {
