@@ -1,4 +1,4 @@
-package com.example.scoutingjava;
+package com.example.learning;
 
 import org.junit.Test;
 

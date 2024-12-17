@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.scoutingjava"
+    namespace = "com.example.learning"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.scoutingjava"
+        applicationId = "com.example.learning"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
